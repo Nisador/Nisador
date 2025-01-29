@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Maxime
-- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Fullstack web development (HTML / CSS / JS / SQL / PHP / PYTHON / NODEJS / REACT)
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: Nisador
